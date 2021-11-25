@@ -1,0 +1,156 @@
+/* head tegi */
+.head{
+    display: flex;
+}
+.navigation{
+    display: flex;
+    color: blue;
+    width: 600px;
+    margin-right: 280px;
+    padding-left: 725px;
+    justify-content: space-between;
+
+}
+.li{
+    padding-right: 10px;
+}
+.fa-bars{
+    size: 35px;
+    color: #534D4D;
+}
+/* sevtion 1 */
+.sectionblok1{
+    width: 600px;
+    height: 700px;
+    margin-top: 50px;
+    text-align: center;
+}
+.sataur{
+    font-size: 78px;
+    color: #534D4D;
+    width: 600px;
+    padding-bottom: 20px;
+}
+.paragraf{
+    font-size: 22px;
+    width:600px;
+    color:#534D4D ;
+    padding-bottom: 20px;
+}
+.gilaki{
+    background-color:#3D37F1ed;
+    width: 150px;
+    display: flex;
+    border-radius: 38px;
+    margin-left: 200px;
+    color: white;
+}
+.wave{
+    padding-left: 15px;
+}
+.sectionblok2{
+    width: 800px;
+}
+.section1{
+    display: flex;
+}
+/* section 2 */
+.section2text{
+    width: 750px;
+    height: 200px;
+    justify-content: center;
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+    
+}
+.p{
+    size:20px;
+    color: #3D37F1;
+    padding-bottom: 17px;
+}
+.text{
+    size: 40px;
+    color: #5A5454;
+    padding-bottom: 20px;
+}
+.text1{
+    size:18px ;
+    color: #747474;
+}
+/* section3 */
+.section3{
+    width: 1700px;
+    height: 970px;
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+}
+.box:nth-child(1){
+    width: 400px;
+    background-color: #FBBA77;
+    text-align: center;
+    margin-right:  30px;
+    margin-bottom: 60px;
+}
+.box:nth-child(2){
+    width: 400px;
+    background-color: #41EAE3;
+    text-align: center;
+    margin-right:  30px; 
+    margin-bottom: 60px;
+}
+.box:nth-child(3){
+    width: 400px;
+    background-color: #69529F;
+    text-align: center;
+    margin-right:  30px; 
+    margin-bottom: 60px;
+}
+.box:nth-child(4){
+    width: 400px;
+    background-color:#4386D2 ;
+    text-align: center;
+    margin-right:  30px; 
+    margin-bottom: 60px;
+}
+.box:nth-child(5){
+    width: 400px;
+    background-color:#A5A2F6 ;
+    text-align: center;
+    margin-right:  30px; 
+    margin-bottom: 60px;
+}
+.box:nth-child(6){
+    width: 400px;
+    background-color:#FF8088;
+    text-align: center;
+    margin-right:  30px; 
+    margin-bottom: 60px;
+}
+
+.click{
+    width: 131px;
+    height: 45px;
+    border-radius: 23px ;
+    border:white 1px solid;
+    margin : 0 auto;
+    size: 15px;
+    
+}
+.clicktext{
+    padding-top: 10px;
+}
+.click:hover{
+    background-color: white;
+}
+.sec3text1{
+    font-size: 22px;
+    color: #FFFFFF;
+    padding-top: 57px;
+}
+.sec3text2{
+    font-size: 16px;
+    color: #FFFFFF;
+    padding-top: 13px;
+}
