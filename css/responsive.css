@@ -15,25 +15,31 @@
         /* max-width: 400px; */
         width: 50%;
     }
+   
 }
 @media (max-width:768px){
     .nav{
         display: none;
     }
     .fa-bars{
-        display: inline;
+        display: block;
+        margin-right: 100px;
     }
     .head{
         background-color: aqua;
     }
     .box{
         width: 90%;
+        margin:auto;
     }
 }
 @media(max-width:480px){
 
 }
 @media(max-width:320px){
+    .gilaki{
+       padding: 0 auto;
+    }
 
 }
 
